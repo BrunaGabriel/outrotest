@@ -1,7 +1,7 @@
 package mindera.porto.AppMovie.model;
 
 import jakarta.persistence.*;
-
+//new test
 @Entity
 @Table(name= "users")
 
